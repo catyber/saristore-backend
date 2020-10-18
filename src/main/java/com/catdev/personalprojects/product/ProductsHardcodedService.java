@@ -1,4 +1,4 @@
-package com.catdev.productservices.product;
+package com.catdev.personalprojects.product;
 
 import org.springframework.stereotype.Service;
 
